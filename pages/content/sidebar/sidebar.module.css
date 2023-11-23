@@ -1,0 +1,19 @@
+.container {
+  background-color: #EFEEF6;
+  width: 500px;
+  height: 900px;
+  float: left;
+  margin-top: 50px;
+}
+.Categories_list li {
+  color: #5C6A79;
+  font-size: 15px;
+  cursor: pointer;
+}
+.Categories_list li {
+  margin-bottom: 30px;
+}
+.Categories_list {
+  margin-top: 50px;
+  margin-left: 100px;
+}

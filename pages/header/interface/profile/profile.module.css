@@ -1,0 +1,42 @@
+.container {
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.profile_container {
+	margin-top: 150px;
+}
+.image {
+	width: 400px;
+	height: 400px;
+}
+.editProfile_button {
+	background-color: transparent;
+	width: 200px;
+	height: 50px;
+	border: 1px solid  #4C3DB2;
+	font-family: Montserrat;
+	font-size: 8px;
+	font-weight: 700;
+	line-height: 10px;
+	letter-spacing: 0em;
+	color: #4C3DB2;
+}
+.userData_block {
+	margin-left: 500px;
+	margin-top: -320px;
+}
+.about_block {
+	box-shadow: 0px 24px 36px 0px #35315447;
+	width: 550px;
+	height: 550px;
+	float: right;
+	margin-top: -370px;
+	background-color: #FFE0E2;
+}
+.description {
+	color: #5C6A79;
+	margin-left: 100px;
+}
+.about_text {
+	text-align: center;
+}

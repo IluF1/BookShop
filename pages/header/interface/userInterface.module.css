@@ -1,0 +1,66 @@
+.container li {
+	display: inline;
+	margin-left: 80px;
+	text-align: right;
+	justify-content: right;
+}
+.container {
+	text-align: right;
+	justify-content: right;
+	margin-top: -15px;
+}
+
+.ProfileImg,
+.BagImg {
+	width: 15px;
+	height: 17px;
+}
+.userLogin_block,
+.uLogin_form {
+	box-shadow: 0px 4px 4px 0px #00000040;
+	width: 200px;
+	height: 300px;
+	z-index: 10;
+	background-color: white;
+	position: absolute;
+	margin-right: auto;
+	right: 0;
+}
+
+.Log_text {
+	font-weight: 700;
+	line-height: 20px;
+	letter-spacing: 0em;
+	text-align: center;
+}
+.uLogin_form {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.Password_input {
+	border: 1px solid #4c3db2;
+	width: 180px;
+	height: 25px;
+	margin-top: 9px;
+	outline: 0 !important;
+}
+.Email_input {
+	border: 1px solid #4c3db2;
+	outline: 0 !important;
+	width: 180px;
+	height: 25px;
+	margin-top: 9px;
+}
+
+
+.SubmitForm_button {
+	width: 176px;
+	height: 32px;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 17px;
+	letter-spacing: 0em;
+	color: white;
+	margin-top: 60px;
+	margin-left: 5px;
+}

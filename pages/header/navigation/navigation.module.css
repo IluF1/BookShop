@@ -1,0 +1,29 @@
+.links_list,
+.link_one,
+.link_two,
+.link_three,
+.link_four {
+  display: inline;
+  list-style-type: none;
+  z-index: 10;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.link_one,
+.link_two,
+.link_three,
+.link_four {
+  margin-right: 40px;
+  font-weight: 700;
+  line-height: 13px;
+}
+.container {
+  text-align: center;
+  margin-top: -44px;
+}
+
+.link_two,
+.link_three,
+.link_four {
+  color: #5C6A79;
+}
